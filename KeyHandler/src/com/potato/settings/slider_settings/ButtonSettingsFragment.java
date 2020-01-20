@@ -27,7 +27,7 @@ import android.support.v7.preference.PreferenceGroup;
 import android.text.TextUtils;
 import android.view.MenuItem;
 
-import com.android.internal.util.cr.FileUtils;
+import com.android.internal.util.potato.FileUtils;
 import com.potato.settings.slider_settings.utils.Constants;
 
 public class ButtonSettingsFragment extends PreferenceFragment
